@@ -23,6 +23,7 @@
     "HAS_PHOTOS": "true",
     "HAS_RASTER": "true",
     "HAS_RASTER_ADVANCED": "false",
+    "HAS_CUI": "true",
     "CAN_EDIT": "false",
     "CAN_PRINT": "false",
     "CAN_PRINT_TIMELINE": "false",
@@ -39,14 +40,7 @@
     "VARTAG_GOOGLE_MAPS_ZOOM_MAX": "21"
   },
   "sysStrings": {},
-  "sysConstants": {
-    "[$PROD_NAME]": "Plex-Earth Lite",
-    "[$PROD_VAR]": "LITE",
-    "[$PROD_REF]": "pe25-lite",
-    "[$URL_GLOBAL_CDN]": "https://pe25-app-cdn.plexearth360.com",
-    "[$URL_ROOT_CDN]": "[$.]/cdn",
-    "[$URL_ROOT_GOTO]": "https://goto.plexearth.com"
-  },
+  "sysConstants": {},
   "sysConditionSets": {},
   "sysSelections": {},
   "sysCommands": {},
